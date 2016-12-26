@@ -1,2 +1,2 @@
 # hello-world
-this is sample program
+this is a sample program
